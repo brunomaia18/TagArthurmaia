@@ -1,0 +1,55 @@
+.arthurImg{
+    width: 500px;
+    height: 500px;
+   
+
+}
+.arthurTxt{
+    font: normal 20pt Impact;
+    position: relative;
+    left: 30px;
+}
+.whatsappImg{
+    width: 120px;
+    height: 120px;
+
+
+}
+.WhatsappTxt{
+    position: relative;
+    left: 10px;
+    font: normal 13pt Verdana;
+
+
+}
+.InstagramImg{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    left: 340px;
+    bottom: 170px;
+}
+.InstagramTxt{
+    position: relative;
+    left: 360px;
+    bottom: 177px;
+    font: normal 13pt Verdana;
+    
+
+
+
+}
+.ps4{
+    position: relative;
+    width: 120px;
+    height: 120px;
+    bottom: 100px;
+    left: 2px;
+}
+.ps4txt{
+    position: relative;
+    left: 30px;
+    bottom: 98px;
+    font: normal 12pt Verdana;
+
+}
